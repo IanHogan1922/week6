@@ -1,0 +1,12 @@
+{
+  "name": "ianschro/328/week6",
+  "authors": [
+    {
+      "name": "Ian Schroeder",
+      "email": "schroeder.ian@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
